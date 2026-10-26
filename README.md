@@ -53,26 +53,6 @@ El proyecto se encuentra organizado en carpetas independientes para cada ejercic
 
 ---
 
-## ▶️ Cómo ejecutar los ejercicios
-
-### Ejercicio 8.2 — Notas
-
-Desde la carpeta `Ejercicio8_2_Notas/src`, ejecuta:
-
-```bash
-javac notas/*.java
-java notas.Principal
-```
-
-### Ejercicio 8.3 — Figuras geométricas
-
-Desde la carpeta `Ejercicio8_3_Figuras/src`, ejecuta:
-
-```bash
-javac figuras/*.java
-java figuras.Principal
-```
-
 **Requisito:** tener instalado el JDK de Java y configurada la variable `PATH` para utilizar `javac` y `java` desde la terminal.
 
 ---
